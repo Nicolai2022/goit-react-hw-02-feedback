@@ -15,7 +15,8 @@ export const FeedbackButton = styled.button`
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
-  font-size: 12px;
+  font-size: 15px;
+  font-weight: 900;
   text-transform: uppercase;
   letter-spacing: 1px;
   cursor: pointer;
@@ -23,7 +24,7 @@ export const FeedbackButton = styled.button`
   border: 2px solid #f5f5c5;
 
   &:hover {
-    background-color: #f5f5c5;
-    color: #517119;
+    background-color: #b5a5c5;
+    color: #f0c0c0;
   }
 `;

@@ -5,4 +5,5 @@ export const NotificationTitle = styled.p`
   font-size: 18px;
   font-weight: 500;
   padding: 50px;
+  font-size: 20px;
 `;
