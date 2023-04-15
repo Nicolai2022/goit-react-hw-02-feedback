@@ -19,5 +19,5 @@ export const StatisticValue = styled.span`
   margin: 0px;
   margin-left: 10px;
   font-weight: 700;
-  color: #c11119;
+  color: #c11219;
 `;
