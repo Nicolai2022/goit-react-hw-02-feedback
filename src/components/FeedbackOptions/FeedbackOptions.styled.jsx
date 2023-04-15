@@ -20,6 +20,7 @@ export const FeedbackButton = styled.button`
   letter-spacing: 1px;
   cursor: pointer;
   transition: background-color 0.5s ease;
+  border: 2px solid #f5f5c5;
 
   &:hover {
     background-color: #f5f5c5;

@@ -4,4 +4,5 @@ export const SectionTitle = styled.h2`
   text-align: center;
   font-size: 20px;
   font-weight: 700;
+  color: #517119;
 `;

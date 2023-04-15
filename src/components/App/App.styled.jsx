@@ -8,6 +8,8 @@ export const Container = styled.div`
   height: 400px;
   margin: 50px auto;
   padding: 50px;
-  border: 2px solid #000000;
+  border: 2px solid #f5f5c5;
   border-radius: 5px;
+  background-color: #c5f5c5;
+  color: #517119;
 `;

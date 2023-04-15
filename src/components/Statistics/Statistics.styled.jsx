@@ -6,6 +6,8 @@ export const StatisticContainer = styled.div`
   gap: 10px;
   width: 200px;
   padding: 50px;
+  background-color: #f5f5c5;
+  color: #517119;
 `;
 
 export const StatisticTitle = styled.p`
