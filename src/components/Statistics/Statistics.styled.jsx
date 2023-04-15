@@ -8,6 +8,7 @@ export const StatisticContainer = styled.div`
   padding: 50px;
   background-color: #f5f5c5;
   color: #517119;
+  border-radius: 15px;
 `;
 
 export const StatisticTitle = styled.p`
@@ -18,4 +19,5 @@ export const StatisticValue = styled.span`
   margin: 0px;
   margin-left: 10px;
   font-weight: 700;
+  color: #c11119;
 `;
