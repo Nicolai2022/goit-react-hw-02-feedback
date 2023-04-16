@@ -7,7 +7,7 @@ export const StatisticContainer = styled.div`
   width: 200px;
   padding: 50px;
   background-color: #f5f5c5;
-  color: #517119;
+  color: #517219;
   border-radius: 15px;
 `;
 
@@ -19,5 +19,5 @@ export const StatisticValue = styled.span`
   margin: 0px;
   margin-left: 10px;
   font-weight: 700;
-  color: #c11319;
+  color: #c11419;
 `;

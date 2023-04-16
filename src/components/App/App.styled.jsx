@@ -10,6 +10,6 @@ export const Container = styled.div`
   padding: 50px;
   border: 2px solid #f5f5c5;
   border-radius: 5px;
-  background-color: #c5f5c5;
+  background-color: #c6f5c5;
   color: #517119;
 `;

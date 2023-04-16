@@ -10,7 +10,7 @@ export const FeedbackContainer = styled.div`
 `;
 
 export const FeedbackButton = styled.button`
-  background-color: #f0c0c0;
+  background-color: #f1c0c0;
   color: #572929;
   padding: 10px 20px;
   border: none;
@@ -25,6 +25,6 @@ export const FeedbackButton = styled.button`
 
   &:hover {
     background-color: #b5a5c5;
-    color: #f0c0c0;
+    color: #f1c0c0;
   }
 `;
